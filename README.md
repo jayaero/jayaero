@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jayaero
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @jay
+- 👀 I’m interested in linux commands
+- 🌱 I’m currently learning devops AWS
+- 💞️ I’m looking to collaborate on IT
+- 📫 How to reach me , reach me at jayaero2014@gmail.com
 
 <!---
 jayaero/jayaero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
